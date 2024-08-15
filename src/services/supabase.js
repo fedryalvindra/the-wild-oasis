@@ -8,3 +8,7 @@ const supabase = createClient(supabaseUrl, supabaseKey);
 export default supabase;
 
 // 1. GIT INIT
+// 2. GIT add -A
+// 3. GIT commit : save the snapshot
+// 4. git remote add origin https://github.com/fedryalvindra/the-wild-oasis.git
+// 5. git push -u origin master
